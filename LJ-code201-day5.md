@@ -1,7 +1,6 @@
 ## LJ Code 201 - Day 5
 1-This CSS link is very helpful http://learnlayout.com/margin-auto.html
 2- Branching vs fork
-4-parralla fork of the same repo
 5-always use git status after each command.
 6-Quiz1 Review.
 7- don't say addition sign say string operator
