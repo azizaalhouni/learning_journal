@@ -1,4 +1,4 @@
-## LJ Code 201 - Day 7
+## LJ Code 201 - Day 8
 1- code Review erica
 2- .gitignore file to make a list of files that you want to don't send them to gitHub.
 3- ipsum Generator
